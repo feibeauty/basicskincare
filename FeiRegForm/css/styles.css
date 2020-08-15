@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Playfair Display', serif;
+  color: #6f4a8e;
+}
+
+h2 {
+  font-family: 'PT Mono', monospace;
+}
+
+h3 {
+  margin: 0;
+  font-family: 'Italianno', cursive;
+  font-size: 30px;
+  color: #6f4a8e;
+}
+
+p {
+  margin: 0;
+  margin-top: 10px;
+  font-family: 'Oswald', sans-serif;
+}
+
+form {
+  align-self: center;
+}
+
+legend {
+  font-family: 'Oswald', sans-serif;
+}
+
+input[type=text] {
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #fff;
+}
+
+input[type=text]:focus {
+  background-color: #efef;
+}
+
+a {
+  margin: 10px 0;
+}
+.parentdiv {
+  background-color: #efbbcf;
+  text-align: center;
+  padding: 16px;
+}
+
+.son1 {
+  background-color: #f3e6e3;
+  text-align: left;
+}
+
+.submitbtn {
+  background-color: #4CAF50;
+  color: white;
+  font-family: 'Crimson Text', serif;
+  font-size: 20px;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.submitbtn:hover {
+  opacity: 1;
+}
+
+.son2 {
+  padding: 10px;
+  margin: 10px;
+  width: auto;
+}
+
+.cont {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  font-family: 'Oswald', sans-serif;
+  color: #ffffff;
+  font-size: 14px;
+  background: #c3aed6;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.cont:hover {
+  background: #8675a9;
+  text-decoration: none;
+}
