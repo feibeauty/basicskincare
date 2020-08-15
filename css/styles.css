@@ -53,10 +53,12 @@ input[type=text]:focus {
 /* img {
 
 } */
-
 a {
   margin: 10px 0;
+  text-decoration: none;
+  color: white;
 }
+
 .parentdiv {
   background-color: #efbbcf;
   text-align: center;
